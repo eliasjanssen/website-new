@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Elias Janssen
-baseurl: 'https://academic-new.netlify.app/' # Website URL
+baseurl: 'https://example.com/' # Website URL
 copyright: '' © Elias Janssen - Ghent University {year} '
 
 ############################
