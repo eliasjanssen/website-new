@@ -5,7 +5,7 @@
 
 title: Elias Janssen
 baseurl: 'https://example.com/' # Website URL
-copyright: '' © Elias Janssen - Ghent University {year} '
+copyright: ' © Elias Janssen - Ghent University {year} '
 
 ############################
 ## LANGUAGE
