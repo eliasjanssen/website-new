@@ -7,7 +7,7 @@
 
 theme: wit
 day_night: true
-font: 'custom'
+font: custom
 font_size: L
 
 # SEO
