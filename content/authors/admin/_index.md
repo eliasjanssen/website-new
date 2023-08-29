@@ -22,10 +22,10 @@ social:
     icon_pack: fas
     link: "#contact"
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fab
     link: https://twitter.com/ESSJanssen
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.linkedin.com/in/eliasjanssen/
   - icon: google-scholar
     icon_pack: ai
