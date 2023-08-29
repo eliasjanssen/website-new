@@ -4,14 +4,13 @@ organizations:
     url: https://www.ru.nl/english/people/janssen-e-s
   - name: Ghent University
     url: https://research.ugent.be/web/person/elias-janssen-0/en
-
 superuser: true
 authors:
   - admin
 title: Elias Janssen
 role: PhD Scholar HRM & OB
-bio: PhD Researcher Radboud University & Ghent University. My research currently revolves around
-  sustainable careers and proactive career behaviors.
+bio: PhD Researcher Radboud University & Ghent University. My research currently
+  revolves around sustainable careers and proactive career behaviors.
 interests:
   - Human Resource Management
   - Careers
@@ -22,7 +21,7 @@ social:
     icon_pack: fas
     link: "#contact"
   - icon: twitter
-    icon_pack: fab
+    icon_pack: fas
     link: https://twitter.com/ESSJanssen
   - icon: linkedin
     icon_pack: fab
