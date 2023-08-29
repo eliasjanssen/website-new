@@ -37,7 +37,7 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Elias-Janssen
 education:
-  courses:
+courses:
   - course: "MSc in Business Administration: Organizational Design & Development"
       institution: Radboud University
       year: 2019
