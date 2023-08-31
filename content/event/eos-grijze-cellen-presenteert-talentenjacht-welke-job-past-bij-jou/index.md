@@ -1,5 +1,6 @@
 ---
-title: "EOS Grijze Cellen presenteert: Talentenjacht - Welke job past bij jou?"
+title: "EOS Grijze Cellen presenteert: Talentenjacht - Welke job past bij jou?
+  (Dutch)"
 abstract: Hoe weet je eigenlijk wat je talenten zijn? En hoe maak je je huidige
   job uitdagender? Herbekijk hier de livestream met professor organisatiegedrag
   Nicky Dries (KU Leuven) en bedrijfspsycholoog Elias Janssen (UGent en Radboud
