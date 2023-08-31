@@ -13,8 +13,8 @@ main:
 #  - name: Projects
 #    url: '#projects'
 #    weight: 30
-  - name: Events
-    url: '/event'
+  - name: Talks
+    url: '/talks'
     weight: 30
   - name: Publications
     url: '#featured'
