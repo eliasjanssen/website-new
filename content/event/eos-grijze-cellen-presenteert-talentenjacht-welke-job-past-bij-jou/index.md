@@ -17,5 +17,5 @@ featured: true
 image:
   filename: maxresdefault.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
