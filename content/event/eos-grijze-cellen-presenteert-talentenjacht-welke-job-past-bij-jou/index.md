@@ -17,6 +17,10 @@ event_url: https://www.eoswetenschap.eu/psyche-brein/herbekijk-welke-job-past-bi
 publishDate: 2023-08-31T13:33:37.274Z
 draft: false
 featured: true
+tags:
+  - Career-crafting
+  - Job-crafting
+  - Proactive-Career-Behaviors
 image:
   filename: maxresdefault.jpg
   focal_point: Smart
