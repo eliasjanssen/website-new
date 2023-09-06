@@ -20,7 +20,7 @@ featured: true
 tags:
   - Career Crafting
   - Job Crafting
-  - Proactive career behavior
+  - Proactive career behaviors
 image:
   filename: maxresdefault.jpg
   focal_point: Smart
