@@ -18,9 +18,9 @@ publishDate: 2023-08-31T13:33:37.274Z
 draft: false
 featured: true
 tags:
-  - Career-crafting
-  - Job-crafting
-  - Proactive-Career-Behaviors
+  - Career Crafting
+  - Job Crafting
+  - Proactive career behavior
 image:
   filename: maxresdefault.jpg
   focal_point: Smart
