@@ -21,7 +21,7 @@ social:
     icon_pack: fas
     link: "#contact"
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fab
     link: https://twitter.com/ESSJanssen
   - icon: linkedin
     icon_pack: fab
