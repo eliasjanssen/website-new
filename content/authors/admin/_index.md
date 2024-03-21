@@ -20,9 +20,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ESSJanssen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/eliasjanssen/
