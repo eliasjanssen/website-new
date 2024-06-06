@@ -9,13 +9,12 @@ authors:
   - admin
 title: Elias Janssen
 role: Lecturer HRM @ Avans & PhD Scholar @ Radboud University
-bio: PhD Researcher Radboud University & Ghent University. My research currently
+bio: Lecturer HRM Avans and PhD Researcher Radboud University. My research currently
   revolves around sustainable careers and proactive career behaviors.
 interests:
   - Human Resource Management
-  - Careers
+  - Sustainable Careers/Employability
   - Job & Career Crafting
-  - Nonlinearity in Predicting Behaviors
 social:
   - icon: envelope
     icon_pack: fas
