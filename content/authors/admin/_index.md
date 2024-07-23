@@ -44,4 +44,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a lecturer in HRM at Avans University of Applied Sciences and a PhD Candidate at the Nijmegen School of Management of Radboud University Nijmegen. I teach courses on research and sustainable employability. My PhD research revolves around sustainable careers in the educational sector and incorporates topics like proactive career behaviors, contextual influences on career development and employability.
+I am a lecturer in HRM at Avans University of Applied Sciences and a PhD Candidate at the Nijmegen School of Management of Radboud University. I teach courses on research skills and sustainable employability. My PhD research revolves around sustainable careers in the educational sector and incorporates topics like proactive career behaviors, contextual influences on career development and employability.
