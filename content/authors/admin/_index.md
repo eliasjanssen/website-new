@@ -3,7 +3,7 @@ organizations:
   - name: Avans Hogeschool
     url: https://avans.nl
   - name: Radboud University
-    url: https://www.ru.nl/english/people/janssen-e-s
+    url: https://www.ru.nl/
 superuser: true
 authors:
   - admin
@@ -33,7 +33,7 @@ social:
     link: https://www.researchgate.net/profile/Elias-Janssen
 education:
   courses:
-    - course: MSc in Business Administration Organizational Design & Development
+    - course: MSc (cum laude) in Business Administration Organizational Design & Development
       institution: Radboud University
       year: 2019
     - course: BSc in Business Administration
