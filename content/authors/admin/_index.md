@@ -2,7 +2,7 @@
 organizations:
   - name: Avans Hogeschool
     url: https://avans.nl
-  - name: Avans Centre of Expertise Wellbeing Economy and New Entrepreneurship
+  - name: CoE Wellbeing Economy and New Entrepreneurship
     url: https://www.bwno.nl/en/team/elias-janssen/
 superuser: true
 authors:
