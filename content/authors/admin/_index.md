@@ -2,14 +2,14 @@
 organizations:
   - name: Avans Hogeschool
     url: https://avans.nl
-  - name: Radboud University
-    url: https://www.ru.nl/
+  - name: Avans Centre of Expertise Wellbeing Economy and New Entrepreneurship
+    url: https://www.bwno.nl/en/team/elias-janssen/
 superuser: true
 authors:
   - admin
 title: Elias Janssen
-role: Lecturer HRM (Avans) & PhD Scholar (Radboud University)
-bio: Lecturer HRM Avans and PhD Researcher Radboud University. My research currently
+role: Lecturer-researcher HRM & Impactful Value Chains (Avans)
+bio: Lecturer-researcher HRM Avans. My research currently
   revolves around sustainable careers and proactive career behaviors.
 interests:
   - Human Resource Management
@@ -33,6 +33,9 @@ social:
     link: https://www.researchgate.net/profile/Elias-Janssen
 education:
   courses:
+    - course: PhD in Management Sciences
+      institution: Radboud University
+      year: 2025
     - course: MSc in Business Administration Organizational Design & Development (cum laude)
       institution: Radboud University
       year: 2019
@@ -44,4 +47,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a lecturer in HRM at Avans University of Applied Sciences and a PhD Candidate at the Nijmegen School of Management of Radboud University. I teach courses on research skills and sustainable employability. My PhD research revolves around sustainable careers in the educational sector and incorporates topics like proactive career behaviors, contextual influences on career development and employability.
+I am a lecturer-researcher in HRM and impactful value chains at Avans University of Applied Sciences. I teach courses on research skills and sustainable employability. My PhD research revolved around sustainable careers in the educational sector and focused on stimulating affective commtiment and proactive career behaviors.
