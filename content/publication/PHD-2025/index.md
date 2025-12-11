@@ -1,5 +1,5 @@
----
-title: "Sustainable Careers in Education: Exploring how educational institutions can foster teachers’ sustainable careers through stimulating affective commitment andproactive career behaviors"
+ ---
+title: "Sustainable Careers in Education: Exploring how educational institutions can foster teachers’ sustainable careers through stimulating affective commitment and proactive career behaviors"
 date: 2025-12-05
 publishDate: 2025-12-05
 authors: 
