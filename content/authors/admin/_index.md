@@ -46,4 +46,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a lecturer-researcher in HRM at the Employability Transition research group of Saxion University of Applied Sciences. I currently conduct practice-oriented research on sustainable careers, lifelong learning and human-technology interaction at work (including the impact of AI) My PhD research focused on sustainable careers in the educational sector and focused on stimulating affective commtiment and proactive career behaviors.
+I am a lecturer-researcher in HRM at the Employability Transition research group of Saxion University of Applied Sciences. I currently conduct practice-oriented research on sustainable careers, lifelong learning and human-technology interaction at work, including the impact of AI implementation on employees. My PhD research focused on sustainable careers in the educational sector.
