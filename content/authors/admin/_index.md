@@ -1,7 +1,7 @@
 ---
 organizations:
   - name: Saxion University of Applied Sciences
-    url: [https://saxion.nl](https://www.saxion.edu/research/research-groups/employability-transition)
+    url: https://www.saxion.edu/research/research-groups/employability-transition
 superuser: true
 authors:
   - admin
