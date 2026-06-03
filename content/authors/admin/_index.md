@@ -1,20 +1,19 @@
 ---
 organizations:
-  - name: Avans Hogeschool
-    url: https://avans.nl
-  - name: CoE Wellbeing Economy and New Entrepreneurship
-    url: https://www.bwno.nl/en/team/elias-janssen/
+  - name: Saxion University of Applied Sciences
+    url: [https://saxion.nl](https://www.saxion.edu/research/research-groups/employability-transition)
 superuser: true
 authors:
   - admin
 title: Elias Janssen
-role: Lecturer-researcher HRM & Impactful Value Chains (Avans)
-bio: Lecturer-researcher HRM Avans. My research currently
-  revolves around sustainable careers and proactive career behaviors.
+role: Lecturer-researcher at Saxion University of Applied Sciences Research Group Employability Transition
+bio: Lecturer-researcher HRM at Saxion. My research currently
+  revolves around sustainable careers, lifelong learning and human-technology interaction at work.
 interests:
   - Human Resource Management
   - Sustainable Careers/Employability
-  - Job & Career Crafting
+  - Lifelong Learning
+  - Human-technology interaction at work
 social:
   - icon: envelope
     icon_pack: fas
@@ -47,4 +46,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a lecturer-researcher in HRM and impactful value chains at Avans University of Applied Sciences. I teach courses on research skills and sustainable employability. My PhD research revolved around sustainable careers in the educational sector and focused on stimulating affective commtiment and proactive career behaviors.
+I am a lecturer-researcher in HRM at the Employability Transition research group of Saxion University of Applied Sciences. I currently conduct practice-oriented research on sustainable careers, lifelong learning and human-technology interaction at work (including the impact of AI) My PhD research focused on sustainable careers in the educational sector and focused on stimulating affective commtiment and proactive career behaviors.
