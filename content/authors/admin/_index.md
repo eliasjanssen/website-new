@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Elias Janssen
-role: Lecturer-researcher at Saxion University of Applied Sciences Research Group Employability Transition
+role: Lecturer-researcher @ Employability Transition Research Group
 bio: Lecturer-researcher HRM at Saxion. My research currently
   revolves around sustainable careers, lifelong learning and human-technology interaction at work.
 interests:
